@@ -61,6 +61,7 @@ flutter:
   assets:
     - assets/squid-game-ge0b516cb4_1280.png
     - assets/among-us-g1e0ccf6bc_640.png
+    - assets/start5/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

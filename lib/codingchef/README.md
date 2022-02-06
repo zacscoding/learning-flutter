@@ -7,3 +7,10 @@
 ![Character App](./assets/02_character_app.png)
 - [drawer app](./start3): drawer
 ![Drawer App](./assets/03_drawer_app.png)
+- [login / dice app](./start5): login with dice
+<table>
+    <tr>
+        <td><img src="assets/04_login_dice1.png"></td>
+        <td><img src="assets/04_login_dice2.png"></td>
+    </tr>
+</table>
